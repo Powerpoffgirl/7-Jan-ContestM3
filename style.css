@@ -1,0 +1,33 @@
+.percentage{
+    color:lawngreen;  
+    text-align: right;
+}
+
+table{
+    font-size: 3vh;
+}
+
+#fail{
+    color:red;
+}
+
+.name > img{
+    width: 4vw;
+    padding-right:1vw;
+}
+
+.symbol{
+    text-transform: Uppercase;
+}
+
+.current_price{
+    text-align: right;
+}
+
+.total_volume{
+    text-align: right;
+}
+
+.mktCap{
+    text-align: right;
+}
